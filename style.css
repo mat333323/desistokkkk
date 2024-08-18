@@ -1,0 +1,149 @@
+body{
+ 
+    margin: 0px;
+   
+}
+header{
+ border: 2px solid black;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    background-color:yellow;
+    color:yellow;
+    padding: 9px;
+
+    }
+    #bus{
+        border: 2px solid black;
+        display: flex;
+        justify-content: center;
+         background-color:yellow;
+         color:yellow;
+         padding: 30px;
+         align-items: center;
+    }
+    .busca{
+        width: 85%;
+        
+        color: rgb(71, 71, 71);
+        }
+        .carrinho{
+      width: 9%;
+      align-items: center;
+      color: black;
+        }
+       #enter{
+            display: flex;
+            height: 40px;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50px;
+            background-color: #D9D9D9;
+            width: 200px;
+        }
+        .comidas{
+          display: flex;
+          align-content: center;
+          justify-content: center;
+       justify-items: center;
+        }
+        .bebidas{
+          display: flex;
+          align-content: center;
+          justify-content: center;
+          ;
+        }
+        #pizzas{
+          width: 300px;
+          
+        }
+        .tudo{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 400px;
+         
+        }
+        #text{
+         justify-content: center;
+          display: flex;
+          align-items: center;
+          height: 1px;
+          font-size: 60px;
+        }
+      .gloogle{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 2px solid black;
+        height: 50px;
+        width: 40000000000px;
+        border-radius: 10px;
+        
+      }
+      .hr{
+        border: 2px solid black;
+   display: grid;
+   align-content: center;
+          display: grid;
+     height:100px;
+     justify-items: center; 
+   }
+   svg{
+     width: 900px;
+   }
+   .text{
+     
+       border: 2px solid black;
+     width:1200px;
+     display: grid;
+     grid-template-columns: 1fr 200px;
+     justify-items: end;
+     
+   }
+   .t{
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     justify-items: end;
+     width:500px;
+   }
+   .w{border: 2px solid black;
+      display: grid;
+     grid-template-columns:;
+     justify-items: end;
+       border: 2px solid black;
+     width:1200px;
+     display: grid;
+     grid-template-columns: 1fr 500px;
+     justify-items: end;
+   }
+   .sp{
+     border: 2px solid black;
+     width:300px;
+     
+   }
+   .d{border: 2px solid black;
+     width:10px;
+   }
+   .ce{border: 2px solid black;
+     display:grid;
+     
+     height:300px;
+      grid-template-columns: 1fr
+    
+
+   }
+   #back{
+     height:300px;
+     background-image: url(Captura\ de\ tela\ 2024-08-17\ 092845.png);
+   }
+   .icons{border: 2px solid black;
+       height:200px;
+     display:flex;
+   justify-items:center;
+   }
+   .ic1{    display: grid;
+     grid-template-columns:600px 500px;
+      border: 2px solid black;
+   }
+        
